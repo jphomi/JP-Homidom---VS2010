@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Passez en revue les valeurs des attributs de l'assembly
 
-<Assembly: AssemblyTitle("Driver_Alerte")> 
+<Assembly: AssemblyTitle("Driver Alertes")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Homidom")> 
-<Assembly: AssemblyProduct("Driver_Alerte")> 
+<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyProduct("Homidom")> 
 <Assembly: AssemblyCopyright("")> 
 <Assembly: AssemblyTrademark("")> 
 
